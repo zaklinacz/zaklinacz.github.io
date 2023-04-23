@@ -1,0 +1,26 @@
+body{background-image: url("ss.jpg");
+	background-size: 100%;
+color: #ffffff;
+font-family: Cambria;}
+
+h1{text-align: center;}
+
+nav a{text-decoration: none;
+	background-color: rgba(68,68,68,0.5);
+	width: 22%;
+	display: inline-block;}
+a:hover{background:  #ffffff;
+	color: #444444;}
+a:active{border: 3px solid #000000;}
+
+nav a{margin: 5px;
+margin-bottom: 55px;	
+padding-top: 30px;
+padding-bottom: 30px;
+padding-left: 5px;
+padding-right: 5px;
+text-align: center;
+border-radius: 30px;
+color: #ffffff;
+display: inline-block;}
+.goback{float: right;}
